@@ -1,1 +1,2 @@
-# ml_for_classifying_social_media_posts
+# Description
+A machine learning project for classifying social media posts within the MediaEval 2015 “verifying multimedia use” challenge dataset as ‘real’ or ‘fake’. The performance of various machine learning algorithms was compared. Main machine learning classifier used in the end is SVM.
